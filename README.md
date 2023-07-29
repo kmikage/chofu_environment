@@ -32,3 +32,5 @@ HTTPS
 - センサー：switchbot 防水温湿度計　　
 https://www.switchbot.jp/products/switchbot-indoor-outdoor-meter
 
+## その他
+このAPIは、AS-ISでの提供です。
