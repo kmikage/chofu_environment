@@ -5,7 +5,7 @@
 - 調布飛行場（東京都調布市西町２９０−３）より、500m圏内
 - 地上約5m
 - 直射日光が当たらない屋外
-- センサー：switchbot 防水温湿度計　　
+- センサー：switchbot 防水温湿度計  
 https://www.switchbot.jp/products/switchbot-indoor-outdoor-meter
 
 ## URL
